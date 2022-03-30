@@ -2,12 +2,12 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
-|-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Group \#:      |  5  |
+| -------------- | --- |
+| Student Names: |  Nicholas Knapton   |
+|                |  Jacob Artuso   |
+|                |  Brian Kramer  |
+|                |  Colin Christophe   |
 
 # Introduction
 
