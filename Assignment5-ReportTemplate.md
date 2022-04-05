@@ -17,6 +17,9 @@ Next we created a reliability demonstration chart in order to check whether the 
 
 # Assessment Using Reliability Growth Testing 
 
+<img src='./picture1.png'/>
+
+
 # Assessment Using Reliability Demonstration Chart 
 We were able to find the MTTF and plot the failures per interval in an RDC. We then plotted double the MTTF as well as half MTTF as shown in the images below. Analysing the graphs, we can see that in the first graph the acceptable failure rate is reached.
 
