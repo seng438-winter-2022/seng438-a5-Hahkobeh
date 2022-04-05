@@ -12,12 +12,13 @@
 # Introduction
 In this assignment we have analyzed test data through the use of reliability testing software. We first used a reliability growth assessment tool, C-SFRAT, in order to apply covariate software reliability models in order to select guide models for our data.
 
-Next we created a reliability demonstration chard in order to check whether the mean time to failure was met.
+Next we created a reliability demonstration chart in order to check whether the mean time to failure was met.
 # 
 
 # Assessment Using Reliability Growth Testing 
 
 # Assessment Using Reliability Demonstration Chart 
+We were able to find the MTTF and plot the failures per interval in an RDC. We then plotted double the MTTF as well as half MTTF as shown in the images below. Analysing the graphs, we can see that in the first graph the acceptable failure rate is reached.
 
 # 
 
