@@ -16,7 +16,7 @@ Next we created a reliability demonstration chart in order to check whether the 
 # 
 
 # Assessment Using Reliability Growth Testing 
-We found the laplace value for each 
+We found the laplace value for each k, we were able to determine that the reliability increases until 17, at that point it decreases.
 <img src='./Picture1.png'/>
 
 
