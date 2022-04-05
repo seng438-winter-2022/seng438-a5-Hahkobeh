@@ -17,7 +17,7 @@ Next we created a reliability demonstration chart in order to check whether the 
 
 # Assessment Using Reliability Growth Testing 
 
-<img src='./picture1.png'/>
+<img src='./Picture1.png'/>
 
 
 # Assessment Using Reliability Demonstration Chart 
