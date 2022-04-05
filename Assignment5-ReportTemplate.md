@@ -10,7 +10,9 @@
 |                |  Colin Christophe   |
 
 # Introduction
+In this assignment we have analyzed test data through the use of reliability testing software. We first used a reliability growth assessment tool, C-SFRAT, in order to apply covariate software reliability models in order to select guide models for our data.
 
+Next we created a reliability demonstration chard in order to check whether the mean time to failure was met.
 # 
 
 # Assessment Using Reliability Growth Testing 
