@@ -16,7 +16,7 @@ Next we created a reliability demonstration chart in order to check whether the 
 # 
 
 # Assessment Using Reliability Growth Testing 
-<button>hello</button>
+We found the laplace value for each 
 <img src='./Picture1.png'/>
 
 
