@@ -26,9 +26,11 @@ Next we created a reliability demonstration chard in order to check whether the 
 # Discussion on Similarity and Differences of the Two Techniques
 
 # How the team work/effort was divided and managed
-
+This lab was done as a group collaboration, with each member contributing at each stage of the lab. We set specifc times for meeting and worked together at those times.
 # 
 
 # Difficulties encountered, challenges overcome, and lessons learned
+In this lab we encountered many difficulties both learning the software, but also in understanding what we needed to do. We struggled a lot working out which steps to take next.
 
 # Comments/feedback on the lab itself
+This was an interesting and challenging lab.
