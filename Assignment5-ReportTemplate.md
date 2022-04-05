@@ -21,7 +21,7 @@ We found the laplace value for each
 
 
 # Assessment Using Reliability Demonstration Chart 
-We were able to find the MTTF and plot the failures per interval in an RDC. We then plotted double the MTTF as well as half MTTF as shown in the images below. Analysing the graphs, we can see that in the first graph the acceptable failure rate is reached.<br />\RDC(normal):
+We were able to find the MTTF and plot the failures per interval in an RDC. We then plotted double the MTTF as well as half MTTF as shown in the images below. Analysing the graphs, we can see that in the first graph the acceptable failure rate is reached.<br />RDC(normal):
 <img src='./RDC1.png'/>
 RDC(twice):
 <img src='./RDCTwice.png'/>
