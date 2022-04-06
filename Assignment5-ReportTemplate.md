@@ -51,8 +51,9 @@ RDC(twice MTTF):
 The RDC for the halved MTTF has a much shallower slope and reaches the acceptable region in less normalised time units. The RDC plot for the double MTTF has a steeper slope and therefore reaches the reject region sooner and so it fails.
 
 # Advantages/Disadvantages of RDC <br />
-The main advantages of RDC are the versitility and effiency. RDC is excels in both cost and time effectiveness when analyzing system reliability. Using RDC is also advantageous because it allows experimentation with different confidence level values and "what-if" scenarios. <br />
-The main disadvantage of using RDC is the innability to determine specific values pertaining to reliability. The RDC is only useful for indicating whether or not the SUT is in the acceptable range.
+The main advantages of RDC are the versatility and efficacy. RDC is excels in both cost and time effectiveness when analyzing system reliability. Using RDC is also advantageous because it allows experimentation with different confidence level values and "what-if" scenarios.
+The main disadvantage of using RDC is the inability to determine specific values pertaining to reliability. The RDC is only useful for indicating whether the SUT is in the acceptable range. 
+
 
 # Comparison of Results
 
