@@ -39,9 +39,9 @@ To arive on a target failure rate we started by setting the target to various va
 
 # Advantages/Disadvantages of Reliability Growth Analysis <br />
 
-One of the benefits of working with reliability growth analysis is the flexibility in working with different models in order to analyse the same sample of data. While working with related yet differently quantified reliability growth models, we can analyze the data in seperate ways, this allows us to make draw different useful conclusions.
+One of the benefits of working with reliability growth analysis is the flexibility in working with different models in order to analyse the same sample of data. While working with related yet differently quantified reliability growth models, we can analyze the data in seperate ways, this allows us to draw different useful conclusions.
 
-
+One potential drawback of using reliability growth analysis
 
 
 # Assessment Using Reliability Demonstration Chart 
