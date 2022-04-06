@@ -22,7 +22,7 @@ Model Comparison:
 We found the laplace value for each k using the formula<br />
 <img src='./laplace.png'/> <br />
 
-Graphing u(k), we were able to determine that the reliability increases until 17, after which the reliability sharply decreases. Therefore the data we should proceed with testing is the range of 0 to 17 because reliability starts to decrease after 17. This could point to the system becoming outdated and may not be reflective of the system's normal operational reliability.
+Graphing u(k), we were able to determine that the reliability increases until 17, after which the reliability sharply decreases. Therefore the data we should proceed with testing is the range of 0 to 17 because reliability starts to decrease after 17 and reliability growth models should only be used when overall reliability is increasing.
 <img src='./Picture1.png'/>
 
 Time-between-failure
@@ -40,6 +40,8 @@ To arive on a target failure rate we started by setting the target to various va
 # Advantages/Disadvantages of Reliability Growth Analysis <br />
 
 One of the benefits of working with reliability growth analysis is the flexibility in working with different models in order to analyse the same sample of data. While working with related yet differently quantified reliability growth models, we can analyze the data in seperate ways, this allows us to draw different useful conclusions.
+
+One large drawback for using reliability models is that they can only be used when overall reliability is increasing as testing is continued. We see this as we must perform laplace tests in order to unsure continuous reliability improvement, cutting off data where it is not.
 
 One potential drawback of using reliability growth analysis
 
