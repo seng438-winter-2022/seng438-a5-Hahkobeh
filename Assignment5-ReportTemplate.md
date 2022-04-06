@@ -35,12 +35,12 @@ To decide what value we should use for the MTTFmin we looked at what the “Inpu
 
 We were able to find the MTTF and plot the failures per interval in an RDC. We then plotted double the MTTF as well as half MTTF as shown in the images below. Analysing the graphs, we can see that in the first graph the acceptable failure rate is reached.<br />RDC(normal):
 <img src='./RDC1.png'/>
-RDC(twice MTTF):
-<img src='./RDCTwice.png'/>
 RDC(half MTTF):
+<img src='./RDCTwice.png'/>
+RDC(twice MTTF):
 <img src='./RDCHalf.png'/>
 # 
-The RDC for the doubled MTTF has a much shallower slope and reaches the acceptable region in less normalised time units. The RDC plot for the halved MTTF has a steeper slope and therefore reaches the reject region sooner and so it fails.
+The RDC for the halved MTTF has a much shallower slope and reaches the acceptable region in less normalised time units. The RDC plot for the double MTTF has a steeper slope and therefore reaches the reject region sooner and so it fails.
 
 # Comparison of Results
 
