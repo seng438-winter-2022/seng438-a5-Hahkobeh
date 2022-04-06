@@ -56,14 +56,14 @@ The RDC for the halved MTTF has a much shallower slope and reaches the acceptabl
 The main advantages of RDC are the versatility and efficacy. RDC is excels in both cost and time effectiveness when analyzing system reliability. Using RDC is also advantageous because it allows experimentation with different confidence level values and "what-if" scenarios.
 The main disadvantage of using RDC is the inability to determine specific values pertaining to reliability. The RDC is only useful for indicating whether the SUT is in the acceptable range. 
 
-
 # Comparison of Results
+Comparing the results from part 1 and part 2 we can see somewhat differing results. From part one we arived at a target failure rate of around 0.4 from applying a fitted the model to our data. This was a result we came to from the techniques described in that section. For the Reliability Demonstration Chart, the observed failures entered the green (accept) zone at failure number 92 and normalized input events being 85. This gives us a failure rate of about 1.08, which is greater than the value observed in part 1. However by observing part 2 we can see that the line starts to trend more flat indicating that if we had collected more failure data the ratio of failures and normalized usage units would have approached closer to 0.4 giving us similar outcomes. To conclude these results indicate that the software is acceptable for release at a failure rate of 0.4 for the method in part 1 and 1.08 (although likely would get lower if more data was collected) for the method in part 2.
 
 # Discussion on Similarity and Differences of the Two Techniques
 The use of extrapolation in part 1 is a key difference as it attempts to predict future values where part 2 fails to graph any predictive values. Another difference is the use of the Laplace reliability growth chart to find the acceptable range. In the second part, the acceptable range is used by defining a risk profile and calculating the MTTF. Both techniques gave their own valuable insights about the reliability of the system and about the failure data. Another difference was the complexity of the calculations for each part, part one required our group to perform more complex exquations (such as the laplace equation) where as part 2 had almost all equations pre-programmed. Both parts were similiar however, when graphing the reliabilty chart and RDC. Depsite the methods being different both graphs gave similar results. 
+
 # How the team work/effort was divided and managed
 This lab was done as a group collaboration, with each member contributing at each stage of the lab. We set specifc times for meeting and worked together at those times.
-# 
 
 # Difficulties encountered, challenges overcome, and lessons learned
 In this lab we encountered many difficulties both learning the software, but also in understanding what we needed to do. We struggled a lot working out which steps to take next.
