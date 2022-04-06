@@ -22,7 +22,7 @@ Model Comparison:
 We found the laplace value for each k using the formula<br />
 <img src='./laplace.png'/> <br />
 
-Graphing u(k), we were able to determine that the reliability increases until 17, at that point it decreases. Therefore the data we should proceed with testing is the range of 0 to 17 because reliability starts to decrease after 17. This could point to the system becoming outdated and may not be reflective of the system's normal operational reliability.
+Graphing u(k), we were able to determine that the reliability increases until 17, after which the reliability sharply decreases. Therefore the data we should proceed with testing is the range of 0 to 17 because reliability starts to decrease after 17. This could point to the system becoming outdated and may not be reflective of the system's normal operational reliability.
 <img src='./Picture1.png'/>
 
 Time-between-failure
