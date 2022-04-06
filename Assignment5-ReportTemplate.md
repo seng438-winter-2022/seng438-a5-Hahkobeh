@@ -37,6 +37,8 @@ Reliability Graph
 To arive on a target failure rate we started by setting the target to various values starting at 1.0 and going down. Observing the results of the graph along the way, our model showed it was unlikely to reach the target intensity rate until 0.6 then got better at 0.5 then finally we arived at the graph shown below which shows a target failure rate of 0.4.
 <img src='./targetFailureRate.PNG'/>
 
+The benefits of using reliability growth analysis
+
 
 # Assessment Using Reliability Demonstration Chart 
 To decide what value we should use for the MTTFmin we looked at what the “Input Event When Observed” value was for the last row of data. Since the value was just below 200,000 (When converted to seconds) and the maximum number of failures we used was 100. We looked for an MTTF that would make the SUT enter the acceptable region on the last “Normalized (Plotted) X Value” without the data points entering the rejection zone. Starting at 2000, we gradually increased our “Per Number of input Events” until we reached a value that satisfies these conditions. This gave us a MTTFmin of 2300. 
