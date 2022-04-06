@@ -18,16 +18,24 @@ Next we created a reliability demonstration chart in order to check whether the 
 # Assessment Using Reliability Growth Testing 
 Model Comparison:
 <img src='./media/comparison.PNG'/>
+
 We found the laplace value for each k using the formula<br />
 <img src='./laplace.png'/> <br />
+
 Graphing u(k), we were able to determine that the reliability increases until 17, at that point it decreases. Therefore our range should be 0 to 17.
 <img src='./Picture1.png'/>
+
 Time-between-failure
 <img src='./media/twoModels.PNG'/>
+
 Failure Intensity
 <img src='./media/intensityGraph.PNG'/>
+
 Reliability Graph
 <img src='./media/reliabilityGraph.PNG'/>
+
+To arive on a target failure rate we started by setting the target to various values starting at 1.0 and going down. Observing the results of the graph along the way, our model showed it was unlikely to reach the target intensity rate until 0.6 then got better at 0.5 then finally we arived at the graph shown below which shows a target failure rate of 0.4.
+<img src='./targetFailureRate.PNG'/>
 
 
 # Assessment Using Reliability Demonstration Chart 
