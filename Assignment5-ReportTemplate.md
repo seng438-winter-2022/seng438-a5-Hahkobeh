@@ -38,7 +38,7 @@ RDC(twice MTTF):
 RDC(half MTTF):
 <img src='./RDCHalf.png'/>
 # 
-The RDC for the doubled MTTF has a much shallower slope and reaches the acceptable region in less normalised time units. The RDC plot for the halved MTTF has a steeper slope and therefore reaches the reject region sooner.
+The RDC for the doubled MTTF has a much shallower slope and reaches the acceptable region in less normalised time units. The RDC plot for the halved MTTF has a steeper slope and therefore reaches the reject region sooner and so it fails.
 
 # Comparison of Results
 
