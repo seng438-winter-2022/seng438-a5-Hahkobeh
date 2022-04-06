@@ -37,9 +37,8 @@ Reliability Graph
 To arive on a target failure rate we started by setting the target to various values starting at 1.0 and going down. Observing the results of the graph along the way, our model showed it was unlikely to reach the target intensity rate until 0.6 then got better at 0.5 then finally we arived at the graph shown below which shows a target failure rate of 0.4.
 <img src='./targetFailureRate.PNG'/>
 
-# Advantages/Disadvantages of RDC <br />
-The main advantages of RDC are the versatility and efficacy. RDC is excels in both cost and time effectiveness when analyzing system reliability. Using RDC is also advantageous because it allows experimentation with different confidence level values and "what-if" scenarios.
-The main disadvantage of using RDC is the inability to determine specific values pertaining to reliability. The RDC is only useful for indicating whether the SUT is in the acceptable range. 
+# Advantages/Disadvantages of Reliability Growth Analysis <br />
+
 The benefits of using reliability growth analysis
 
 
