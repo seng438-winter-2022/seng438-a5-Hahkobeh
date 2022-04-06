@@ -60,7 +60,7 @@ The main disadvantage of using RDC is the inability to determine specific values
 # Comparison of Results
 
 # Discussion on Similarity and Differences of the Two Techniques
-
+The use of models in the first is part is the most significant difference, as the models are used to extrapolate the graphs and determine reliability. Another difference is the use of the Laplace reliability growth chart to find the acceptable range. In the second part, the acceptable range is used by defining a risk profile and calculating the MTTF. Both techniques gave their own valuable insights about the reliability of the system and about the failure data. Another difference was the manual calculations needed for the first part.
 # How the team work/effort was divided and managed
 This lab was done as a group collaboration, with each member contributing at each stage of the lab. We set specifc times for meeting and worked together at those times.
 # 
