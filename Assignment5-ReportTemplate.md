@@ -50,7 +50,14 @@ RDC(twice MTTF):
 # 
 The RDC for the halved MTTF has a much shallower slope and reaches the acceptable region in less normalised time units. The RDC plot for the double MTTF has a steeper slope and therefore reaches the reject region sooner and so it fails.
 
-# Advantages/Disadvantages of RDC
+# Advantages/Disadvantages of RDC <br />
+Advantages:<br />
+  -Versatile<br />
+  -Time efficient<br />
+  -Experimentation with different values and what-if's is possible<br />
+Disadvantages:<br />
+  -Cannot find specific values for reliability<br />
+  -Only able to show whether or not SUT is in the acceptable bounds<br />
 
 # Comparison of Results
 
